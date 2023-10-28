@@ -40,14 +40,14 @@ if solution:
 else:
     print("No solution found.")
 ```
-<br>Input:
+## Input:
 This algorithm will take three words.
 <br> B A S E<br>
     B A L L<br>
            ----------<br>
            G A M E S<br>
 
-Output:
+## Output:
 It will show which letter holds which number from 0 – 9.
 For this case it is like this.
 
@@ -55,7 +55,7 @@ For this case it is like this.
               B A L L                         2 4 5 5
              ---------                       ---------
             G A M E S                       0 4 9 1 6
-Algorithm
+## Algorithm
 For this problem, we will define a node, which contains a letter and its corresponding values.<br>
 
 isValid(nodeList, count, word1, word2, word3)<br>
