@@ -54,7 +54,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-<h3>Code:</h3>
+## Program:
 ```
 #import defaultdict
 from collections import defaultdict
