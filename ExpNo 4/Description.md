@@ -101,3 +101,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## Result:
+Thus, Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game is implemented succesfully.
