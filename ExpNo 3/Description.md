@@ -221,3 +221,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+Result
+Thus, A Start Search Algorithm is implemented succesfully using python.
